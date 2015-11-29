@@ -1,0 +1,148 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background: url('../images/bg-body.png') repeat center center;
+}
+header .logo{
+	margin-top: 95px;
+}
+header nav ul{
+	margin-top: 40px;
+	margin-bottom: -5px;
+}
+header nav ul.list-inline > li{
+	padding: 10px 47px;
+}
+header nav ul.list-inline > li:first-child{
+	padding-left: 0;
+}
+header nav ul li a{
+	color: #fff;
+	font-size: 28px;
+	text-transform: uppercase;
+	padding: 5px 20px;
+}
+header nav ul li:hover a{
+	background: #235271;
+	color: #fff;
+	text-decoration: none;
+}
+
+section{
+	background: url('../images/bg-content.jpg') repeat center center;
+}
+section  .banner{
+	padding: 0 10px;
+}
+section .text-banner{
+	font-size: 16px;
+	color: #fff;
+	margin-top: 40px;
+	line-height: 40px;
+}
+section .text-banner span{
+	color: #000;
+}
+section ul{
+	color: #fff;
+	font-size: 16px;
+	margin-top: 30px;
+}
+section ul li{
+	padding-top: 35px;
+}
+section .share{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+section .share p{
+	float: left;
+	color: #361404;
+}
+section .share a span i{
+	color: #361404;
+	font-size: 18px;
+	
+}
+section .share a{
+	margin-left: 10px;
+}
+section .share a.twitter{
+	margin-left: 25px;
+}
+section .share a span.facebook i{
+	color: #fff;
+	width: 20px;
+	height: 20px;
+	background: #361404;
+	text-align: center;
+	border-radius: 2px;
+	padding-top: 2px;
+}
+
+footer{
+	background: url('../images/bg-body.png') repeat center center;
+	color: #fff;
+}
+footer .col-left{
+	padding-right: 20px;
+}
+footer .col-left .what-new{
+	margin: 30px 0;
+}
+footer .col-left a{
+	color: #fff;
+	text-transform: uppercase;
+	background: #ee771c;
+	padding: 5px 10px;
+	font-size: 18px;
+	
+}
+footer .col-left .title{
+	font-weight: 600;
+}
+footer .col-left span{
+	color: #ee771c;
+}
+footer .col-left p{
+	line-height: 25px;
+}
+footer .col-left .text-footer-2{
+	margin-top: 30px;
+}
+footer .col-right{
+	padding-left: 20px;
+}
+footer .col-right .form-contact{
+	background: #aa653f;
+	margin-top: 63px;
+	padding: 10px 20px;
+}
+footer .col-right .form-contact .join-our{
+	font-size: 18px;
+	line-height: 25px;
+}
+footer .col-right .form-contact span.twitter i{
+	font-size: 45px;
+	color: #33ccff;
+}
+footer .col-right .form-contact span.facebook i{
+	background: #3c5a98;
+	color: #fff;
+	width: 39px;
+	height: 39px;
+	font-size: 30px;
+	padding-top: 5px;
+	border-radius: 5px;
+}
+footer .col-right .copyright{
+	padding: 15px 0 65px;
+}
+footer .col-right .form-contact form button{
+	background: #e1690d;
+	border: 1px solid #e1690d;
+}
+footer .col-right .form-contact form button i{
+	color: #fff;
+}

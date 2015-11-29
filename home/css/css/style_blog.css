@@ -1,0 +1,122 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background: url('../images/bg-body.png') repeat center center;
+}
+header .logo{
+	margin-top: 95px;
+}
+header nav ul{
+	margin-top: 40px;
+	margin-bottom: -5px;
+}
+header nav ul.list-inline > li{
+	padding: 10px 47px;
+}
+header nav ul.list-inline > li:first-child{
+	padding-left: 0;
+}
+header nav ul li a{
+	color: #fff;
+	font-size: 28px;
+	text-transform: uppercase;
+	padding: 5px 20px;
+}
+header nav ul li:hover a{
+	background: #235271;
+	color: #fff;
+	text-decoration: none;
+}
+
+section{
+	background: url('../images/bg-content.jpg') repeat center center;
+}
+section .col-left{
+	font-size: 16px;
+	color: #fff;
+}
+section .col-left .title-banner{
+	font-weight: 600;
+	margin-top: 72px;
+}
+section .col-left .text-banner{
+	line-height: 40px;
+	display: inline;
+}
+section .col-left .text-banner span{
+	color: #000;
+}
+section .col-left .share{
+	margin-top: 10px;
+}
+
+section .col-left .share p{
+	float: left;
+	color: #361404;
+	font-size: 12px;
+}
+section .col-left .share a span i{
+	color: #361404;
+	font-size: 18px;
+	
+}
+section .col-left .share a{
+	margin-left: 10px;
+}
+section .col-left .share a.twitter{
+	margin-left: 25px;
+}
+section .col-left .share a span.facebook i{
+	color: #fff;
+	width: 20px;
+	height: 20px;
+	background: #361404;
+	text-align: center;
+	border-radius: 2px;
+	padding-top: 2px;
+}
+section .col-right{
+	padding-left: 20px;
+	padding-bottom: 133px;
+}
+section .col-right .bread{
+	background: #47728e;
+	width: 100%;
+	margin-top: 77px;
+	padding: 18px 0;
+	text-align: center;
+}
+section .col-right .bread a{
+	color: #fff;
+	font-size: 20px;
+	padding: 18px 0;
+}
+section .col-right .content-right{
+	font-size: 16px;
+	color: #fff;
+	background: url('../images/bg-body.png') repeat center center;
+	padding: 0 12px;
+}
+section .col-right .content-right .content-1{
+	padding-top: 23px;
+	
+}
+section .col-right .content-right p{
+	line-height: 38px;
+}
+section .col-right .content-right .content{
+	padding-top: 45px;
+}
+section .col-right .content-right .content-2{
+	padding: 45px 0 18px;
+}
+
+footer{
+	background: url('../images/bg-body.png') repeat center center;	
+}
+footer .copyright{
+	color: #fff;
+	padding: 45px 0 65px;
+	font-weight: 600;
+}

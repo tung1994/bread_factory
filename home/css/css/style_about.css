@@ -1,0 +1,66 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background: url('../images/bg-body.png') repeat center center;
+}
+header .logo{
+	margin-top: 95px;
+}
+header nav ul{
+	margin-top: 40px;
+	margin-bottom: -5px;
+}
+header nav ul.list-inline > li{
+	padding: 10px 47px;
+}
+header nav ul.list-inline > li:first-child{
+	padding-left: 0;
+}
+header nav ul li a{
+	color: #fff;
+	font-size: 28px;
+	text-transform: uppercase;
+	padding: 5px 20px;
+}
+header nav ul li:hover a{
+	background: #235271;
+	color: #fff;
+	text-decoration: none;
+}
+
+section{
+	background: url('../images/bg-content.jpg') repeat center center;
+}
+section .content-banner{
+	font-size: 16px;
+	color: #fff;
+}
+section .content-banner .title{
+	font-weight: 600;
+}
+section .content-banner .text-content{
+	line-height: 38px;
+}
+section .content-banner .text-content span{
+	color: #000;
+}
+section .content-banner .content{
+	padding-top: 73px;
+}
+section .content-banner .content-1{
+	padding-top: 55px;
+}
+section .content-banner .content-2{
+	padding: 55px 0 145px;
+}
+
+
+footer{
+	background: url('../images/bg-body.png') repeat center center;	
+}
+footer .copyright{
+	color: #fff;
+	padding: 45px 0 65px;
+	font-weight: 600;
+}

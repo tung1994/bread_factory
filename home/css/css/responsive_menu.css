@@ -1,0 +1,183 @@
+ @media (min-width: 320px) and (max-width: 360px) { 
+ 	.container{
+ 		width: 310px;
+ 	}
+ 	.banner h1 {
+ 		font-size: 34px;
+ 		padding-top: 30px;
+ 	}
+ 	header .logo{
+ 		margin-top: 2px;
+ 	}
+ 	nav ul li.register{
+ 		background: none;
+ 		margin-left: 13px;
+ 	}
+ 	nav ul li{
+ 		width: 100%;
+ 		
+ 	}
+ 	nav ul li:hover{
+ 		border-bottom:none; 
+ 	}
+ 	nav ul li.menu-home{ 
+	border-bottom: none;
+}
+ 	nav ul.list-inline {
+ 		margin-left: 0;
+ 	}
+ 	nav .icon-bar{
+ 		background-color: #202926;
+ 	}
+ 	nav .navbar-toggle {
+ 		background-color: #fff;
+ 	}
+
+ 	.discount .discount-detail .deal-content .object{
+ 		 padding: 25px 46px 60px;
+ 	}
+ 	.discount .deal{
+ 		padding-top: 46px;
+
+ 	}
+ 	.presentation .pre-detail ul li p{
+	    font-size: 13px;
+	}
+	.presentation .pre-detail ul li.pre-right{
+		padding-left: 5px;
+	}
+	.presentation .pre-detail ul li i{
+		margin-right: 15px;
+	}
+	.text-detail{
+		margin-left: 30%;
+	}
+	.hr-red {
+		width: 90%;
+	}
+	.teacher ul li{
+		width: 100%;
+	}
+	.teacher .img-face {
+	    left: 0px;
+	}
+	.teacher .teacher-detail {
+		left: 0;
+	}
+	.teacher .teacher-text p {
+	    padding-left: 63px;
+	    width: 100%;
+	}
+	.teacher .teacher-text::after{
+		bottom: -28px;
+	}
+	.presentation .pre-title{
+		font-size: 35px;
+	}
+	.footer-inner .recent-content{
+		left: 0;
+	}
+	.contact{
+		padding-top: 60px;
+	}
+	.footer-inner .social ul li{
+		margin-left: 5px;
+	}
+	.banner .text-title{
+		font-size: 28px;
+	}
+	.banner .hr-banner{
+		width: 90%;
+	}
+	.banner .text-intro{
+		width: 87%;
+		text-align: left;
+		margin-left: 8%;
+	}
+	.discount .hr-discount {
+		width: 90%;
+	}
+ }
+ @media (min-width: 768px) and (max-width: 980px) {
+ 	nav .list-inline > li {
+ 		padding-left: 23px;
+ 		padding-right: 23px;
+ 	}
+ 	nav ul li{
+ 		padding-bottom: 18px;
+ 		padding-top: 18px;
+ 	}
+ 	nav ul li:hover{
+ 		border-bottom:none; 
+ 	}
+ 	nav ul li.menu-home{ 
+		border-bottom: none;
+	}
+	.banner h1{
+		font-size: 45px;
+	}
+	.banner .text-title{
+		font-size: 30px;
+	}
+	.banner .text-intro{
+		 margin-left: 24%;
+		 width: 52%;
+		 font-size: 14px;
+	}
+	.text-detail{
+		margin-left: 42%;
+	}
+	.discount .discount-detail .deal-content .object{
+		padding: 25px 0 68px;
+		font-size: 19px;
+	}
+	.presentation .pre-title{
+		font-size: 36px;
+	}
+	.hr-red {
+		width: 60%;
+	}
+	.presentation .pre-detail ul li.pre-right{
+		padding-left: 0;
+		
+	}
+	.presentation .pre-detail ul li p {
+		font-size: 15px;
+	}
+	.teacher .img-face{
+		left: 70px;
+	}
+	.teacher .teacher-detail{
+		left: 50px;
+	}
+	.teacher .teacher-text p{
+		padding-left: 60px;
+		width: 100%;
+	}
+	.teacher .teacher-text::after{
+		bottom: -28px;
+	}
+	.footer-inner .recent-content{
+		left: 0;
+	}
+	.footer-inner .recent h5{
+		font-size: 14px;
+	}
+	.footer-inner .contact .contact-detail1 p{
+		padding-left: 28px;
+		font-size: 14px;
+	}
+	.footer-inner .contact .contact-detail1 ul li{
+		padding-top: 10px;
+	}
+	.footer-inner .social ul li:nth-child(4){
+		margin: 5px 0 0 5px;
+	}
+	.footer-inner .linklist .btn-register{
+		padding-top: 10px;
+	}
+	.footer-inner .linklist .btn-register{
+		line-height: 57px;
+	}
+ }
+
